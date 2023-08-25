@@ -1,6 +1,5 @@
 import Title from "@/components/title"
 import Link from "next/link";
-import { libre_baskerville } from "./fonts"
 
 const navigation = [
   { name: "Projects", href: "/projects", delay: 0 },
