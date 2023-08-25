@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/katara/Desktop/PROJECTS/laniakea/laniakea/src/app/layout\":[\"static/media/2aaf0723e720e8b9-s.p.woff2\",\"static/media/640ece80909a508b-s.p.woff2\",\"static/media/d5fafdc7bbd3315c-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
