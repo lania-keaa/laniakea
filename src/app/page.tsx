@@ -1,3 +1,4 @@
+import DevCallout from "@/components/devcallout";
 import Title from "@/components/title"
 import Link from "next/link";
 
@@ -10,6 +11,7 @@ const navigation = [
 export default function Home() {
   return (
     <main className="flex justify-center w-screen h-screen bg-black bg-gradient-to-tl from-black via-zinc-600/20 to-black relative">
+      <DevCallout />
       <div className="absolute flex flex-col h-screen w-screen justify-center items-center overflow-hidden ">
         <div className="hidden w-screen h-px animate-glow md:block animate-fade-left bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
         <div className="z-10">
